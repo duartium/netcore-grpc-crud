@@ -26,7 +26,7 @@ This project is a simple gRPC service for managing products, built with .NET 8.
 You can use [Postman](https://www.postman.com/) or any gRPC client to test the endpoints.  
 Below is an example request using Postman:
 
-![Postman Request Example](Docs/postman-request.PNG)
+![Postman Request Example](Docs/postman-request.png)
 
 ## Protobuf
 
